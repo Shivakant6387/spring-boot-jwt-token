@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootJwtTokenApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootJwtTokenApplication.class, args);
+			SpringApplication.run(SpringBootJwtTokenApplication.class, args);
 	}
 
 }
